@@ -6,7 +6,7 @@ Hey there!  My name is Kristina Wald.  Here are some quick facts about me:
 25
 
 # Where I'm from
-Hyde Park - *grew up just a few blocks away from here!*
+Hyde Park - *grew up practically right on campus!*
 
 # What I'm studying
 Behavioral Science at Booth
@@ -26,7 +26,10 @@ Behavioral Science at Booth
 1. Visiting Antarctica is on my bucket list.
 1. I lived in New York for 6 years and _**fell madly in love with it!**_
 
-# Facebook 
+# LinkedIn Page
+https://www.linkedin.com/in/kristina-wald-77a4a763/
+
+
 
 
 
