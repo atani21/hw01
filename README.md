@@ -30,7 +30,7 @@ Behavioral Science at Booth
 https://www.linkedin.com/in/kristina-wald-77a4a763/
 
 # Picture of Me
-(/Users/Venus/Dropbox/Computing_Soc_Sci_Autumn_2019/hw01/Wald-2644.jpg)
+![Me] (/Users/Venus/Dropbox/Computing_Soc_Sci_Autumn_2019/hw01/Wald-2644.jpg)
 
 
 
