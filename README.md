@@ -27,10 +27,10 @@ Behavioral Science at Booth
 1. I lived in New York for 6 years and _**fell madly in love with it!**_
 
 # LinkedIn Page
-[Click here for my LinkedIn profile] (https://www.linkedin.com/in/kristina-wald-77a4a763/)
+https://www.linkedin.com/in/kristina-wald-77a4a763/
 
 # Picture of Me
-
+(/Wald-2644.jpg)
 
 
 
