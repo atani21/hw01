@@ -18,7 +18,7 @@ Behavioral Science at Booth
 
 # Favorite things to do
 * Take walks *(especially along Lake Michigan!)*
-* Watch The Bachelor
+* Watch _**The Bachelor**_
 * Sleep
 
 # Fun Facts
@@ -27,8 +27,9 @@ Behavioral Science at Booth
 1. I lived in New York for 6 years and _**fell madly in love with it!**_
 
 # LinkedIn Page
-https://www.linkedin.com/in/kristina-wald-77a4a763/
+[Click here for my LinkedIn profile] (https://www.linkedin.com/in/kristina-wald-77a4a763/)
 
+# Picture of Me
 
 
 
