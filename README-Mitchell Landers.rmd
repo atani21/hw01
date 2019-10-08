@@ -1,0 +1,31 @@
+# hw01
+
+hello
+
+library(usethis)
+use_git_config(user.name = "Mitchell Landers", user.email = "mitchelllanders@gmail.com")
+
+install.packages("rmarkdown")
+library(rmarkdown)
+#This is a line from r studio
+
+
+##Brief biography of me, myself, and I
+
+### My Beginnings
+
+**Background**
+
+When I was a young warthog (Timone in background: when he was a young waaarthooooog), I...
+
+-was afraid of barbers but especially the sound of Daffy Duck
+-switched schools often (my parents were picky)
+-had two older siblings, both of whom were much older than I was
+-loved disney movies
+-loved basketball even more than disney movies
+
+After high school, I attended UC Berkeley, where both my love of philosophy and existential anguish grew (correlation or causation? You decide!). From there, I returned home to the Motherland (Santa Barbara) and chanced upon discovering evolutionary psychology. Now I'm here at Chicago pursuing a Ph.d in psychology. The good news: my existential anguish has mostly subsided; the bad news: it was to be replaced by its homely nephew, general stress.
+
+![Behold! A meme I enjoy!](image-1.jpg)
+
+
